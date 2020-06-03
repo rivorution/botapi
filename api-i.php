@@ -1,6 +1,6 @@
 <?php
-  $access_token = "/1H2Ob/D5/sXjHapP8eNz9WdUVcXnZcFhJcX9BLul3HK9bums95y9oJM315Js+v5BnPLSPHR8DzXLw/ME2cTWm6RDF1aCNyMiUpwvUec4WyPuAc71zWMl+Qy1iIaiHLTEE5TgVO7eZ+reDwt1dIt1QdB04t89/1O/w1cDnyilFU=";
-  $userId ='U09daf41b2443adfdfcbdfc3b3858f3eb';
+  $access_token = "xAYdMw0pv7wDjvu/c99SU+XGIRT80h3tiiyxXl9bSseDT1AAtyIh7ItyK3RpCRod5tLa8V0szqhJ7Uce/HNgaOAPZikiaJWb4UQ1/HTXVG7l+EPgOdzHteI28d1AZd5do5fRSTN2a1BgGlJrjMT/1QdB04t89/1O/w1cDnyilFU=";
+  $userId ='U44a39111faccd2a573c4eeac17333f62';
 
   // Call LINE API
   $content = file_get_contents('php://input');
